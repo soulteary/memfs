@@ -1,3 +1,7 @@
+Fork from: https://github.com/psanford/memfs and merge @cugu code for support `fstest`.
+
+----
+
 # memfs: A simple in-memory io/fs.FS filesystem
 
 memfs is an in-memory implementation of Go's io/fs.FS interface.
